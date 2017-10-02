@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.tek"/>
+			<item value="Com.tek.demo"/>
+			<item value="com.tek.row"/>
+			<item value="com.tek."/>
+			<item value="com.ravi"/>
+			<item value="com.tek.spring"/>
+			<item value="COM.TEK.demo"/>
+			<item value="com.shoppingcart"/>
+			<item value="Spring"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="PathPerm"/>
+			<item value="SpringMVCpathPerm"/>
+			<item value="sample"/>
+			<item value="SpringMVChelloWorld"/>
+			<item value="Struts_DispatchAction"/>
+			<item value="StrutsHelloWorld"/>
+			<item value="StrutsHelloworld"/>
+			<item value="Rowmapper"/>
+			<item value="Spring_Dep"/>
+			<item value="Spring_Dependency"/>
+			<item value="OutputGenerator"/>
+			<item value="HelloWorld"/>
+			<item value="Project1"/>
+			<item value="Application"/>
+			<item value="Shoppingcart"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVCpathPerm"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Struts_DispatchAction"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\StrutsExample"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\springShoping"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringYo_Components"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Spring_InjectionDep"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Spring_Injection_Ambiguities"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Spring_Basic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVCpathPerm"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Spring_JDBC\src\main\java\com\tek\dao\imp\JdbcCustomerDAO.java"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\OutputGenerator"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

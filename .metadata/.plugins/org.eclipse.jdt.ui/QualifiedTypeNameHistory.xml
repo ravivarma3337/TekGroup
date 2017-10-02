@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ravi.basics.T1"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+<fullyQualifiedTypeName name="com.tek.output.OutputHelper"/>
+<fullyQualifiedTypeName name="com.tek.output.IOutputGenerator"/>
+<fullyQualifiedTypeName name="com.tek.sub.IOutputGenerator"/>
+<fullyQualifiedTypeName name="com.tek.sub.OutputHelper"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="javax.swing.tree.RowMapper"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletConfig"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.support.SpringBeanAutowiringSupport"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.apache.struts.action.Action"/>
+<fullyQualifiedTypeName name="com.tek.form.HelloWorldForm"/>
+<fullyQualifiedTypeName name="org.apache.struts.action.ActionMapping"/>
+<fullyQualifiedTypeName name="org.apache.struts.action.ActionForward"/>
+<fullyQualifiedTypeName name="org.apache.struts.action.ActionForm"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,5 @@
+package com.tek.action;
+
+public class HelloWorldAction {
+
+}
