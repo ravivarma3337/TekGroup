@@ -1,6 +1,0 @@
-127.0.0.1 - - [26/Sep/2017:19:15:49 -0400] "GET / HTTP/1.1" 404 1073
-0:0:0:0:0:0:0:1 - - [26/Sep/2017:19:15:50 -0400] "GET /shoppingApplication/ HTTP/1.1" 200 558
-0:0:0:0:0:0:0:1 - - [26/Sep/2017:19:15:51 -0400] "GET /shoppingApplication/select?option=1 HTTP/1.1" 200 1874
-0:0:0:0:0:0:0:1 - - [26/Sep/2017:19:16:04 -0400] "GET /shoppingApplication/select?itemno=2&quantity=1&method=AddtoCart HTTP/1.1" 200 1989
-0:0:0:0:0:0:0:1 - - [26/Sep/2017:19:16:06 -0400] "GET /shoppingApplication/select?method=Checkout HTTP/1.1" 200 712
-0:0:0:0:0:0:0:1 - - [26/Sep/2017:19:16:17 -0400] "GET /shoppingApplication/select?user=robo&method=PlaceOrder HTTP/1.1" 200 643

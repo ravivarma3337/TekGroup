@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\raviv\Documents\TEK Group\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\raviv\Documents\TEK Group\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SpringMVCpathPerm" path="/RESTfulExample" reloadable="true" source="org.eclipse.jst.j2ee.server:SpringMVCpathPerm"/><Context docBase="C:\Users\raviv\Documents\TEK Group\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\StrutsHelloWorld" path="/StrutsHelloworld" reloadable="true" source="org.eclipse.jst.jee.server:StrutsHelloWorld"/></Host>
+      <Context docBase="C:\Users\raviv\Documents\TEK Group\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\raviv\Documents\TEK Group\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SpringJDBC_Cnfg_JPA_Repo" path="/SpringWebExample" reloadable="true" source="org.eclipse.jst.jee.server:SpringJDBC_Cnfg_JPA_Repo"/></Host>
     </Engine>
   </Service>
 </Server>

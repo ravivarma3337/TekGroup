@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="SpringMVChelloWorld"/>
+<aop-project name="SpringCrudOperations4"/>
+<aop-project name="SpringCrudOperations2"/>
+<aop-project name="SpringDemo"/>
+<aop-project name="Spring_Micro1"/>
+<aop-project name="SpringBootProfiles"/>
+<aop-project name="SpringBoot_JPA22"/>
+<aop-project name="Spring_Dep"/>
+<aop-project name="SpringCrudOperations3"/>
+<aop-project name="SpringCrudOperations5"/>
+<aop-project name="SpringJDBC_Cnfg_JPA_Repo"/>
+<aop-project name="SpringBoot_JPA"/>
+<aop-project name="com.tek.demo.SpringCrudOperations"/>
+<aop-project name="Spring_Micro"/>
+<aop-project name="Spring_Micro2"/>
+<aop-project name="SpringMvcJdbcTemplate"/>
 <aop-project name="springShoping"/>
-<aop-project name="Shoping"/>
+<aop-project name="SpringBoot_JPA23"/>
+<aop-project name="SpringCrudOperations"/>
 </aop-reference-model>

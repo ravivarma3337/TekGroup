@@ -2,7 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.test"/>
 			<item value="com.tek"/>
+			<item value="com.tek.demo"/>
 			<item value="Com.tek.demo"/>
 			<item value="com.tek.row"/>
 			<item value="com.tek."/>
@@ -15,6 +17,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringBootProfiles"/>
+			<item value="Spring_Micro2"/>
+			<item value="Spring_Micro1"/>
+			<item value="Spring_Micro"/>
+			<item value="SpringCrudOperations"/>
 			<item value="PathPerm"/>
 			<item value="SpringMVCpathPerm"/>
 			<item value="sample"/>
@@ -25,11 +32,6 @@
 			<item value="Rowmapper"/>
 			<item value="Spring_Dep"/>
 			<item value="Spring_Dependency"/>
-			<item value="OutputGenerator"/>
-			<item value="HelloWorld"/>
-			<item value="Project1"/>
-			<item value="Application"/>
-			<item value="Shoppingcart"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -57,20 +59,27 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVCpathPerm"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\Struts_DispatchAction"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\StrutsExample"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\springShoping"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\SpringYo_Components"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\Spring_InjectionDep"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\Spring_Injection_Ambiguities"/>
-			<item value="C:\Users\raviv\Documents\TEK Group\Spring_Basic"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringBoot_JPA22"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringJDBC_Cnfg_JPA_Repo"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringBootCrud"/>
+			<item value="C:\Users\raviv\Pictures\SpringJDBC_Cnfg_JPA_Repo"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVC-UMS"/>
+			<item value="C:\Users\raviv\Pictures\SpringCrudOperations_JDBC"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringCrudJDBC"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringCrudOperations2"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringCrudOperations"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringMvcJdbcTemplate"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringJDBCtemp"/>
+			<item value="C:\Users\raviv\Desktop\SpringCrudOperations"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVCBeanNameUrlHandlerMapping"/>
+			<item value="C:\Users\raviv\Downloads\SpringMVC-Json-Example\Spring3MVC"/>
+			<item value="C:\Users\raviv\Downloads\SpringMVC-Json-Example"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="[groupId].[artifactId]"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
-			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
@@ -87,6 +96,10 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringBoot_JPA23\pom.xml"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Spring_Micro1\src\main\java\com\tek\App.java"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\SpringBootCrud\src\main\resources\Application.properties"/>
+			<item value="C:\Users\raviv\Documents\TEK Group\Application"/>
 			<item value="C:\Users\raviv\Documents\TEK Group\SpringMVCpathPerm"/>
 			<item value="C:\Users\raviv\Documents\TEK Group\Spring_JDBC\src\main\java\com\tek\dao\imp\JdbcCustomerDAO.java"/>
 			<item value="C:\Users\raviv\Documents\TEK Group\OutputGenerator"/>
